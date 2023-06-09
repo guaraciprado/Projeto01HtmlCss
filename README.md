@@ -1,2 +1,3 @@
 # Projeto01HtmlCss
-Projeto site desenvolvido em Html e Css para Faculdade Flamingo.
+Projeto estudantil 01 Faculdade Flamingo:
+Desenvolvido um site em Html e Css link  em "About".
